@@ -227,6 +227,6 @@ with col8:
     st.plotly_chart(fig8, use_container_width=True)
 
 st.divider()
-st.caption("Dashboard generado con Streamlit + Plotly · Datos: Analisis.xlsx")
+st.caption("Dashboard generado por Javier Sotelo con Streamlit + Plotly · Datos: Analisis.xlsx")
 
 #streamlit run "C:/Users/estud/PROYECTOS Py/Dashboard Streamlit/app.py"
